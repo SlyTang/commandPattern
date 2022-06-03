@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Command2
+comment1.params=r
+comment1.target=Command2(Receiver)
+comment2.params=
+comment2.target=void\ execute()
+comment3.params=
+comment3.target=void\ unexecute()
+numComments=4
